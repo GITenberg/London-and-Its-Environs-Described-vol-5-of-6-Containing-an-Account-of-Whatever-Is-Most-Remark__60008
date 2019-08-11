@@ -1,0 +1,30 @@
+_repo: London-and-Its-Environs-Described-vol-5-of-6-Containing-an-Account-of-Whatever-Is-Most-Remark__60008
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2019-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Description and travel -- Early works to 1800'
+- !lcsh 'London (England) -- Gazetteers -- Early works to 1800'
+- !lcc 'DA'
+- GITenberg
+title: 'London and Its Environs Described, vol. 5 (of 6)
+
+  Containing an Account of Whatever Is Most Remarkable for Grandeur, Elegance, Curiosity
+  or Use, in the City and in the Country Twenty Miles Round It.'
+url: http://www.gutenberg.org/ebooks/60008
